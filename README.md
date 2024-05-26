@@ -4,7 +4,7 @@
 This repository contains the code and documentation for a digital system design project implemented using MATLAB and Verilog. The project focuses on designing and implementing a FIR (Finite Impulse Response) Low Pass Filter (LPF) within the context of a Digital Signal Synthesizer (DDS).
 
 <p align="center">
-  <img src="imgs/DDS.png" alt="Direct Digital Synthesizer Architecture Proposal">
+  <img src="imgs/DDS2.png" alt="Direct Digital Synthesizer Architecture Proposal">
 </p>
 <p align="center">
   <em>Figure 1: Direct Digital Synthesizer Architecture Proposal</em>

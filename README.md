@@ -33,8 +33,8 @@ The project involves the following components:
 
 To reproduce the results or run simulations:
 
-1. Navigate to the relevant directories (`Source Code/`).
-2. You can follow the instructions in the provided documents/reports in this repository.
+1. Navigate to the relevantS Source code repositories to get the source codes..
+2. You can follow the instructions in the provided documents/reports in this repository, which gives an overview of each step taking in this project.
 3. Execute the scripts or commands as instructed to run simulations, generate plots, or analyze results.
 
 ### License

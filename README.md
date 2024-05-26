@@ -1,5 +1,5 @@
 
-## Implementing Direct Digital Synthesizer as well as Low-Pass Filter on Verilog with the help of Mathlab
+## Implementing Direct Digital Synthesizer & Low-Pass Filter on Verilog with the help of Mathlab
 
 This repository contains the code and documentation for a digital system design project implemented using MATLAB and Verilog. The project focuses on designing and implementing a FIR (Finite Impulse Response) Low Pass Filter (LPF) within the context of a Digital Signal Synthesizer (DDS).
 

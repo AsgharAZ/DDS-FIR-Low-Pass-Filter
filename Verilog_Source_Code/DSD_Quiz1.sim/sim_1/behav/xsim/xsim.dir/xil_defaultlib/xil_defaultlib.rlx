@@ -1,0 +1,7 @@
+0.7
+2020.1
+May 27 2020
+20:09:33
+C:/Users/DELL/DSD_Quiz1/DSD_Quiz1.sim/sim_1/behav/xsim/glbl.v,1590624368,verilog,,,,glbl,,,,,,,,
+C:/Users/DELL/DSD_Quiz1/DSD_Quiz1.srcs/sim_1/new/Simulation.v,1711092839,verilog,,,,simulation,,,,,,,,
+C:/Users/DELL/DSD_Quiz1/DSD_Quiz1.srcs/sources_1/new/DSD_Quiz1.v,1711092749,verilog,,C:/Users/DELL/DSD_Quiz1/DSD_Quiz1.srcs/sim_1/new/Simulation.v,,FIR_Gaussian_Lowpass;PhaseAccumulator;Phase_to_Amplitude_Converter;toplevel,,,,,,,,

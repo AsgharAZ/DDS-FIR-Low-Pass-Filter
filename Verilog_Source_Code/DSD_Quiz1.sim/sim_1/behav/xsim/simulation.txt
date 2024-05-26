@@ -1,0 +1,10 @@
+$date
+   Mon May  6 01:27:43 2024
+$end
+$version
+  2020.1
+$end
+$timescale
+  1ps
+$end
+$enddefinitions $end

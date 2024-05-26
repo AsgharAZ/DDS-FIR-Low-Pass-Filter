@@ -1,12 +1,9 @@
-Certainly! Here's a README template for your repository:
 
----
-
-# Digital System Design with MATLAB and Verilog
+## Implementing Direct Digital Synthesizer as well as Low-Pass Filter on Verilog with the help of Mathlab
 
 This repository contains the code and documentation for a digital system design project implemented using MATLAB and Verilog. The project focuses on designing and implementing a FIR (Finite Impulse Response) Low Pass Filter (LPF) within the context of a Digital Signal Synthesizer (DDS).
 
-## Overview
+### Overview
 
 The project involves the following components:
 
@@ -18,7 +15,7 @@ The project involves the following components:
 
 - **Verification and Simulation**: Validating the Verilog implementation through simulation and comparing results with MATLAB's ideal plots.
 
-## Usage
+### Usage
 
 To reproduce the results or run simulations:
 
@@ -26,10 +23,6 @@ To reproduce the results or run simulations:
 2. You can follow the instructions in the provided documents/reports in this repository.
 3. Execute the scripts or commands as instructed to run simulations, generate plots, or analyze results.
 
-## License
+### License
 
 This project is licensed under the [GNU License](LICENSE).
-
----
-
-Feel free to customize this README template further to include any additional information specific to your project.
